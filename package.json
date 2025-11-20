@@ -1,0 +1,9 @@
+{
+  "name": "tamim-utils",
+  "version": "1.0.0",
+  "description": "A utility library created by Tamim (D4IRY-M1LK09)",
+  "main": "index.js",
+  "keywords": ["tamim", "utils", "library", "javascript"],
+  "author": "D4IRY-M1LK09",
+  "license": "MIT"
+}
